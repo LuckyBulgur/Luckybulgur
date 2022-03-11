@@ -1,9 +1,5 @@
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
-- 🔭 I’m currently working on [ROaufgaben](https://github.com/LuckyBulgur/roaufgaben-next)
-
-- 🌱 I’m currently learning **Next.js & NestJs**
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckybulgur&theme=dark&show_icons=true)
 
 <h3 align="left">Languages and Tools:</h3>
