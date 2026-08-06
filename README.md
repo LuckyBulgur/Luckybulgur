@@ -1,26 +1,16 @@
-<h2 align="left">Hi 👋! My name is Ugur and I am a passionate software developer from Germany.</h2>
+#### Web & Full-Stack
 
-###
+- [kontexto](https://github.com/LuckyBulgur/kontexto): 🧠 German semantic word guessing game — Next.js frontend, FastAPI + fastText backend ([kontexto.de](https://kontexto.de))
+- [roaufgaben-next](https://github.com/LuckyBulgur/roaufgaben-next): 🖥️ Next.js frontend for roaufgaben.de *(archived)*
+- [roaufgaben-nest](https://github.com/LuckyBulgur/roaufgaben-nest): ⚙️ NestJS backend API for roaufgaben.de *(archived)*
+- [personal-website](https://github.com/LuckyBulgur/personal-website): 🌐 My personal website *(archived)*
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=luckybulgur&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luckybulgur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+#### FiveM
 
-###
+- [fivem-dashboard](https://github.com/LuckyBulgur/fivem-dashboard): 📊 Web dashboard for FiveM servers and their players *(archived)*
+- [driveby](https://github.com/LuckyBulgur/driveby): 🚗 FiveM driveby script *(archived)*
+- [lucky_tanke](https://github.com/LuckyBulgur/lucky_tanke): ⛽ FiveM gas station script *(archived)*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+#### Work
+
+- **metronHR** — 🧑‍💼 HR platform I build at [@AMNAU-GmbH](https://github.com/AMNAU-GmbH): Next.js web app and Flutter mobile app *(private)*
