@@ -14,5 +14,5 @@
 | Project | What it is | Role | Links |
 | --- | --- | --- | --- |
 | **ROaufgaben** | 📚 Web app for organising school homework | Full-stack developer | [Frontend](https://github.com/LuckyBulgur/roaufgaben-next) · [API](https://github.com/LuckyBulgur/roaufgaben-nest) *(archived)* |
-| **eTraining.studio (web)** | 🌍 WordPress site — template customisation, content integration and maintenance | Lead developer, internship project | *(offline)* |
+| **eTraining.studio (web)** | 🌍 WordPress site — template customisation, content integration and maintenance | Project lead, supervised two interns | *(offline)* |
 | **Personal website** | 🌐 My own site, built with Next.js | Solo project | [Source](https://github.com/LuckyBulgur/personal-website) *(archived)* |
