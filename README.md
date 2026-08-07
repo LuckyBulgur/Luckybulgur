@@ -8,6 +8,7 @@
 | **WORKSPACE.PM Mobile** | 🗂️ Flutter app for task and resource management in project teams | Lead developer of the app | [Platform](https://workspace.pm) · [App Store](https://apps.apple.com/de/app/workspace-pm/id6736763810) · [Play Store](https://play.google.com/store/apps/details?id=pm.workspace.app) |
 | **eTraining App** | 🎓 Flutter app for project management qualification with e-learning progress and Leitner-system flashcards | Lead developer of the app | [Platform](https://etraining.app) · [App Store](https://apps.apple.com/de/app/etraining-app/id1668108991) · [Play Store](https://play.google.com/store/apps/details?id=app.etraining.attendee) |
 | **eTraining.studio App** | 📋 Flutter app for course administration and trainers of project management seminars | Lead developer of the app | *(not public)* |
+| **eTraining 2** | 🎓 Flutter app that merges eTraining.app and eTraining.studio into a single product for course administration and project management qualification | Lead developer of the app | *(in development)* |
 
 #### Other Projects
 
